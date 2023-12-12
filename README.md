@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @werton13
-- 👀 I’m interested in PowerShell, Bash, Azure,Azure Stack, Terraform, Ansible, Kunernetes
-- 🌱 I’m currently learning Ansible
+- 👀 I’m interested in Linux, cloud technologies, infrastructure as code and various automatization and orchestration tools like Terraform, Ansible, Kubernetes
+- 🌱 I’m currently learning DevOps tools and processes
 - 💞️ I’m looking to collaborate on ...
 - 📫 If you want to contact me - please use my email: werton13@gmail.com 
 
